@@ -1,5 +1,5 @@
 # filter-based-feature-selection
-## Unlock the Power of Data: Master Filter-Based Feature Selection Techniques 🚀
+## Unlock the Power of Data: Master Filter-Based Feature Selection Techniques 
 
 In the dynamic world of data science, extracting actionable insights from complex datasets is paramount. Filter-based feature selection stands as a pivotal step in this journey, enabling us to distill complexity, enhance model performance, and unlock the full potential of our predictive models.
 
@@ -29,5 +29,5 @@ Contributions are welcome! If you have insights, improvements, or additional res
 ## Let's Connect
 Join us on this transformative journey in the world of data science! Explore the power of filter-based feature selection and unlock new possibilities in your data-driven decision-making.
 
-Happy exploring! 💫
+Happy exploring
 Link for the Article :- https://www.linkedin.com/pulse/unveiling-data-insights-mastering-filter-based-feature-vishal-patel-pxr8e
